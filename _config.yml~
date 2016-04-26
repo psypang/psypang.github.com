@@ -8,11 +8,11 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : A Psychologist Note
+title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
-  name : Kao, Min-Pang
-  email : kmblic@gmail.com
+  name : Name Lastname
+  email : blah@email.test
   github : username
   twitter : username
   feedburner : feedname
